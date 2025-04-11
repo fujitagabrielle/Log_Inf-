@@ -21,6 +21,6 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/gabrielle_fujita_fatec_sp_go
 ![image](https://github.com/user-attachments/assets/cf30bb43-326d-4265-9052-82466ec55b5f)
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/gabrielle_fujita_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/ATIVIDADE%20DE%20INFORMATICA%20EM%20DUPLA%201.xlsx?d=w0de2fe631974486b98ecb96d63d1619b&csf=1&web=1&e=tBdyZu
 
-##Sexta atividade- Dados ocorrências na aviação Power BI
+## Sexta atividade- Dados ocorrências na aviação Power BI
 ![image](https://github.com/user-attachments/assets/6fef3078-036f-4489-a85d-a9a50019589a)
 https://app.powerbi.com/links/06hxAJJLMF?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
