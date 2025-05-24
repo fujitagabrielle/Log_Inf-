@@ -27,6 +27,7 @@ https://app.powerbi.com/links/06hxAJJLMF?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 ## Projeto 1: Venda de Sorvete
 [Projeto 1: Venda de Sorvete](https://fatecspgov-my.sharepoint.com/:x:/r/personal/gabrielle_fujita_fatec_sp_gov_br/Documents/IceCream.csv?d=wb811bf2b00b84742b80257be4746de60&csf=1&web=1&e=nhY5oL)
+
 ![image](https://github.com/user-attachments/assets/08094fec-0ba5-467b-ac51-24b6774710a1)
 
 ## Projeto 2: Consumo de cerveja
@@ -37,6 +38,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/gabrielle_fujita_fatec_sp_go
 
 ![image](https://github.com/user-attachments/assets/ebed56b0-c945-486d-b1f7-8e3740e50246)
 
+https://colab.research.google.com/drive/1Bh2nKkrvb49P-c1gBcplY207O3dPyL5K#scrollTo=AZ4KADbZxnxS
 ![image](https://github.com/user-attachments/assets/7277f5a2-4abd-4a5d-a6f2-36640e854fa1)
 
 
@@ -44,4 +46,4 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/gabrielle_fujita_fatec_sp_go
 ## Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
 ## Qual modelo você usaria? Por quê?
  
-Ambos os modelos são eficazes, mas servem a propósitos diferentes. Porém na minha opnião, o Colab ficou mais organizado e mais fácil a leitura.
+Ambos os modelos são eficazes, mas servem a propósitos diferentes. Porém na minha opnião, eu usaria o Colab porque ficou mais organizado e mais fácil a leitura.
