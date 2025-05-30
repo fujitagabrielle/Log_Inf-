@@ -47,3 +47,12 @@ https://colab.research.google.com/drive/1Bh2nKkrvb49P-c1gBcplY207O3dPyL5K#scroll
 ## Qual modelo você usaria? Por quê?
  
 Ambos os modelos são eficazes, mas servem a propósitos diferentes. Porém na minha opnião, eu usaria o Colab porque ficou mais organizado e mais fácil a leitura.
+
+## SEXTA ATIVIDADE: CUSTO, RECEITA E LUCRO - EXCEL
+![image](https://github.com/user-attachments/assets/e167e65d-be98-45dc-aefa-b3e22e3837bb)
+![image](https://github.com/user-attachments/assets/33b7d975-87ec-4a64-9896-b47f921ce337)
+
+![image](https://github.com/user-attachments/assets/1337703d-82b4-4d89-9573-3c6aedbcfad6)
+
+![image](https://github.com/user-attachments/assets/9ed3befd-9d14-49d3-a30b-0c1f42974429)
+
