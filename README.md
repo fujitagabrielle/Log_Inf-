@@ -49,10 +49,13 @@ https://colab.research.google.com/drive/1Bh2nKkrvb49P-c1gBcplY207O3dPyL5K#scroll
 Ambos os modelos são eficazes, mas servem a propósitos diferentes. Porém na minha opnião, eu usaria o Colab porque ficou mais organizado e mais fácil a leitura.
 
 ## SEXTA ATIVIDADE: CUSTO, RECEITA E LUCRO - EXCEL
-![image](https://github.com/user-attachments/assets/e167e65d-be98-45dc-aefa-b3e22e3837bb)
-![image](https://github.com/user-attachments/assets/33b7d975-87ec-4a64-9896-b47f921ce337)
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/gabrielle_fujita_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Graf_K_panela_sorvetes_produtos%20GABI.xlsx?d=w9773c8f9938240ebbdf4a5ff49b4803a&csf=1&web=1&e=rdZHJh
+![image](https://github.com/user-attachments/assets/b29563c1-31a0-4cb5-b53f-e407430ef72a)
+![image](https://github.com/user-attachments/assets/0ff96b8a-2d2a-429c-bf2c-2be08b4d0801)
 
-![image](https://github.com/user-attachments/assets/1337703d-82b4-4d89-9573-3c6aedbcfad6)
+Atividade 2:
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/gabrielle_fujita_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Graf_K_sandalias_computador%20GABI.xlsx?d=w01cacf5cf3d2442fbc92b31a06c46724&csf=1&web=1&e=acrBQR
+![image](https://github.com/user-attachments/assets/8ecbb83c-c592-454d-b1df-7fc2659efe38)
+![image](https://github.com/user-attachments/assets/3586f995-6bf7-4ebe-ae73-5043ae161e7c)
 
-![image](https://github.com/user-attachments/assets/9ed3befd-9d14-49d3-a30b-0c1f42974429)
 
