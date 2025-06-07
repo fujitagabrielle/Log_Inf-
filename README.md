@@ -58,4 +58,9 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/gabrielle_fujita_fatec_sp_go
 ![image](https://github.com/user-attachments/assets/8ecbb83c-c592-454d-b1df-7fc2659efe38)
 ![image](https://github.com/user-attachments/assets/3586f995-6bf7-4ebe-ae73-5043ae161e7c)
 
+## ATIVIDADE INFORMATICA REGRESSÃO LINEAR
+
+https://github.com/user-attachments/assets/cc03aa78-5918-4bc0-8615-a95f30217b35
+
+
 
