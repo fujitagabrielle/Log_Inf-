@@ -62,5 +62,8 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/gabrielle_fujita_fatec_sp_go
 
 https://github.com/user-attachments/assets/cc03aa78-5918-4bc0-8615-a95f30217b35
 
+## ATIVIDADE POWER APPS E POWER AUTOMATE 
+
+https://github.com/user-attachments/assets/50384f7a-198e-45a5-b14f-41eb9245ca09
 
 
