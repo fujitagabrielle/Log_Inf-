@@ -64,6 +64,5 @@ https://github.com/user-attachments/assets/cc03aa78-5918-4bc0-8615-a95f30217b35
 
 ## ATIVIDADE POWER AUTOMATE 
 
-https://github.com/user-attachments/assets/50384f7a-198e-45a5-b14f-41eb9245ca09
-
+Uploading Gravando 2025-06-13 202219.mp4…
 
