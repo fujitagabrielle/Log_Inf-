@@ -69,6 +69,8 @@ https://github.com/user-attachments/assets/6c454853-d907-440e-b62e-6d9f7bf9accf
 ## PROVA DE INFORMÁTICA 
 Dados abertos
 ![image](https://github.com/user-attachments/assets/7f809eb4-0db3-4f32-b6c5-89278092ef93)
+![image](https://github.com/user-attachments/assets/6dcc1311-f4c0-41f6-a201-3d0ef44dd928)
+![image](https://github.com/user-attachments/assets/92be05c6-5c17-4051-9428-2812948c2289)
 
 
 
