@@ -72,7 +72,12 @@ Dados abertos
 
 
 POWER APPS 
-https://github.com/user-attachments/assets/4dd8a059-9715-4a09-912f-d14b57699887
+
+
+https://github.com/user-attachments/assets/2e54f430-7a71-4854-8ae9-284bf72ee317
+
+
+
 
 
 
